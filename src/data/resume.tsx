@@ -13,17 +13,11 @@ export const DATA = {
     "Sou um engenheiro de software em início de carreira, atualmente focado no estudo e desenvolvimento de front-end. Trabalho em uma startup inovadora, onde estou aprendendo e contribuindo para o desenvolvimento de soluções tecnológicas. Tenho interesse em crescer continuamente como profissional, buscando sempre entregar valor rápido e de forma eficiente. Estou confortável com o desenvolvimento de interfaces web e estou aprimorando minhas habilidades em JavaScript, HTML, CSS e frameworks modernos. Motivado e entusiasmado para expandir meus conhecimentos e assumir novos desafios no mundo da tecnologia.",
   avatarUrl: "/me.jpg",
   skills: [
+    "HTML",
+    "CSS",
+    "Javascript",
     "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
+    
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
